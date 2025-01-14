@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color:white
+}
+
+/*Greetings changing*/
+.Greetings{
+    text-align: center;
+}
+
+/*add button,input and label changing*/
+.inputLabel,.addButton,.input{
+    font-size: 2vh;
+    
+}
+
+.inputLabel{
+    margin-left: 5%;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.input{
+    margin-left: 14px;
+    border-radius: 5px;
+}
+
+.addButton{
+    margin-left: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+.taskList li {
+    margin-left: 5%;
+    width: 50%;
+    height: 5%; /* Adjust height as needed */
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    list-style-type: none; /* Remove bullet points */
+}
