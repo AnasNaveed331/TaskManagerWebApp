@@ -11,40 +11,25 @@ Button Hover Effects: Customizable hover effects for the "Add" and "Delete" butt
 HTML5: Used for structuring the page.
 CSS3: For styling the page, including task list items, buttons, and input fields.
 JavaScript: For dynamic task management (adding and deleting tasks) and user interaction.
-## Installation
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/task-manager.git
-Open the project directory in your code editor.
-
-Open index.html in your browser to run the app.
 ## Usage
 Upon loading the page, the app will prompt the user for their name.
 The user can then add tasks to the list by entering text in the input field and clicking the "Add" button or pressing Enter.
 Each task will have a "Delete" button, which can be clicked to remove the task from the list.
 ## File Structure
-bash
-Copy code
 /task-manager
   ├── index.html         # HTML structure for the page
   ├── style.css          # Styles for the app
   ├── script.js          # JavaScript for functionality
   └── README.md          # Project documentation
 
-
 ## Contributing
 Feel free to fork this project and submit pull requests with improvements or bug fixes.
-
-## Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new pull request.
-
-
+1-Fork the repository.
+2-Create a new branch (git checkout -b feature-branch).
+3-Make your changes.
+4-Commit your changes (git commit -am 'Add new feature').
+5-Push to the branch (git push origin feature-branch).
+6-Create a new pull request.
 ## Acknowledgements
 Special thanks to all contributors and resources that helped in the development of this project.
 This README provides essential information, clear instructions for setup and usage, and a structured format suitable for a professional GitHub repository.
